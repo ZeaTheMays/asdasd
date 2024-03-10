@@ -1,0 +1,122 @@
+# Blender 3.3.1 MTL File: 'map.blend'
+# www.blender.org
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.008023 0.008023 0.008023
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Program Files (x86)/Steam/steamapps/common/Crab Game/Maps/githubcomZeaTheMaysZeaCrabBurrowrawmain/Suspicious Spaceship/Textures/Texture_5.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Program Files (x86)/Steam/steamapps/common/Crab Game/Maps/githubcomZeaTheMaysZeaCrabBurrowrawmain/Suspicious Spaceship/Textures/Texture_1.png
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Program Files (x86)/Steam/steamapps/common/Crab Game/Maps/githubcomZeaTheMaysZeaCrabBurrowrawmain/Suspicious Spaceship/Textures/Texture_2.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Program Files (x86)/Steam/steamapps/common/Crab Game/Maps/githubcomZeaTheMaysZeaCrabBurrowrawmain/Suspicious Spaceship/Textures/Texture_4.png
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Program Files (x86)/Steam/steamapps/common/Crab Game/Maps/githubcomZeaTheMaysZeaCrabBurrowrawmain/Suspicious Spaceship/Textures/Texture_3.png
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Program Files (x86)/Steam/steamapps/common/Crab Game/Maps/githubcomZeaTheMaysZeaCrabBurrowrawmain/Suspicious Spaceship/Textures/Texture_6.png
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Program Files (x86)/Steam/steamapps/common/Crab Game/Maps/githubcomZeaTheMaysZeaCrabBurrowrawmain/Suspicious Spaceship/Textures/Texture_7.png
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.455719 0.639572 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.069977 0.257831 0.428564
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.010
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.047520 0.078671 0.174320
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.452286 3.000000 0.927224
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
